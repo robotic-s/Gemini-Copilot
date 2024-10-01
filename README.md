@@ -50,6 +50,11 @@ Before you begin, ensure you have the following:
      GEMINI_API_KEY=your_api_key_here
      ```
    - Replace `your_api_key_here` with your actual Gemini API key
+5. On Linux
+   - Install Tkinter
+     ```
+     sudo apt install python3-tk
+     ```
 
 ## Usage
 
