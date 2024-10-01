@@ -28,8 +28,8 @@ Before you begin, ensure you have the following:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/gemini-copilot.git
-   cd gemini-copilot
+   git clone https://github.com/robotic-s/Gemini-Copilot.git
+   cd Gemini-Copilot
    ```
 
 2. Create and activate a virtual environment (optional but recommended):
@@ -97,7 +97,6 @@ Contributions to Gemini Copilot are welcome! Here's how you can contribute:
 5. Push to the branch (`git push origin feature/amazing-feature`)
 6. Create a new Pull Request
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
