@@ -45,7 +45,7 @@ def setup_logging_and_runtime():
     return runtime_dir
 
 # Set up Gemini API
-genai.configure(api_key="AIzaSyB5tYQjDHteq_lfZQpjbJffBpBtEgeLM_4")
+genai.configure(api_key="Your api key") 
 
 class CustomCopilot:
     def __init__(self, master):
