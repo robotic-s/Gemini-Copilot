@@ -2,7 +2,7 @@
 
 Gemini Copilot is an advanced AI-powered chatbot application that leverages the power of Google's Gemini API to provide intelligent, context-aware responses. This desktop application offers a user-friendly interface for interacting with AI, managing multiple conversations, and analyzing various types of media.
 
-![Gemini Copilot Screenshot](screenshot.png)
+![Gemini Copilot Screenshot](logo.png)
 
 ## Features
 
