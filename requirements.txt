@@ -16,5 +16,6 @@ asyncio
 
 # Other utilities
 python-dotenv
+pyaudio
 
 # Note: tkinter, sqlite3, and logging are part of Python's standard library
