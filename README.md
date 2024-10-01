@@ -55,6 +55,13 @@ Before you begin, ensure you have the following:
      ```
      sudo apt install python3-tk
      ```
+   -Install Port audio
+     ```
+      sudo apt update
+      sudo apt install portaudio19-dev
+
+     ```
+   -Then install requirements.txt
 
 ## Usage
 
