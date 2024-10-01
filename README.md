@@ -96,7 +96,6 @@ python gemini_copilot.py
 ## Troubleshooting
 
 - If you encounter any issues, check the `logs` directory for detailed error logs.
-- Ensure your API key is correctly set in the `.env` file.
 - For file upload problems, verify that the file type is supported and the file is not corrupted.
 
 ## Contributing
