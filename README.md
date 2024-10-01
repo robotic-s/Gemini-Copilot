@@ -66,6 +66,7 @@ Before you begin, ensure you have the following:
 ## Usage
 
 To launch Gemini Copilot:
+-Make sure you have placed you api key correctly in gemini api key in file!!
 
 ```
 python gemini_copilot.py
